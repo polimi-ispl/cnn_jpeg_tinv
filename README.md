@@ -9,7 +9,7 @@
 
 ![](assets/teaser.jpg)
 
-This is the official code repository for the paper *Investigating Translation Invariance and Shiftability in CNNs for Robust Multimedia Forensics: a JPEG Case Study*, accepted for presentation for the [IH&MMSEC24 workshop](https://www.mdpi.com/2072-4292/15/15/3750).  
+This is the official code repository for the paper *Investigating Translation Invariance and Shiftability in CNNs for Robust Multimedia Forensics: a JPEG Case Study*, accepted for presentation for the [IH&MMSEC24 workshop](https://www.ihmmsec.org/cms/home).  
 The repository is currently **under development**, so feel free to open an issue if you encounter any problems.
 
 # Getting started
