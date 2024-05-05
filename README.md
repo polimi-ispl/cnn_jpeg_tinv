@@ -1,4 +1,6 @@
 # Investigating Translation Invariance and Shiftability in CNNs for Robust Multimedia Forensics: a JPEG Case Study
+<div align="center">
+
 <!-- **Authors:** -->
 
 **_[Edoardo Daniele Cannas](linkedin.com/in/edoardo-daniele-cannas-9a7355146/), [Sara Mandelli](https://www.linkedin.com/in/saramandelli/), [Paolo Bestagini](https://www.linkedin.com/in/paolo-bestagini-390b461b4/), [Stefano Tubaro](https://www.linkedin.com/in/stefano-tubaro-73aa9916/)_** 
