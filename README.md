@@ -14,7 +14,6 @@ The repository is currently **under development**, so feel free to open an issue
 
 # Getting started
 
-## Prerequisites
 In order to run our code, you need to:
 1. install [conda](https://docs.conda.io/en/latest/miniconda.html)
 2. create the `cnn-jpeg-tinv` environment using the *environment.yml* file
